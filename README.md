@@ -20,7 +20,7 @@ my simple and straightforward red-black exercise, so it is not
 a fair comparison - I do not believe for a second that my implementation
 is better in any sense, although it was marginally quicker in this test.
 
-However, this test demonstrates how a good algorithm can yield great
+However, the test demonstrates how a good algorithm can yield great
 results even when you are not trying to 'optimize' your code.
 No effort was applied to make this code fast. It is a straightforward
 implementation of the red-black algorithm as described by
