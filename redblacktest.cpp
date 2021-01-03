@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-    int n = 1 * 1000 * 1000;
+    int n = 4 * 1000 * 1000;
 
     cout << "RB_Tree vs. std::map\n";
     cout << "Adding and removing " << n << " nodes\n\n";
